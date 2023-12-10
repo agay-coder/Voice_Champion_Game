@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">Voice Champion</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="google_log_in" translatable="false">Login with Google</string>
+    <string name="facebook_app_id">769206480188590</string>
+    <string name="fb_login_protocol_scheme">fb769206480188590</string>
+    <string name="menu_rules" translatable="false">Rules</string>
+    <string name="menu_about" translatable="false">About</string>
+    <string name="menu_home" translatable="false">Home</string>
+    <string name="games_played" translatable="false">Games Played</string>
+    <string name="log_out" translatable="false">Log out</string>
+    <string name="halfAnswer" translatable="false">Half Answer for 10</string>
+    <string name="firstLetterOfAnswer" translatable="false">First Letter for 5</string>
+    <string name="starting_time" translatable="false">30</string>
+    <string name="leave_game" translatable="false">leave game</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="won" translatable="false">You Won!</string>
+    <string name="lost" translatable="false">You Lost!</string>
+    <string name="asking_play_again" translatable="false">Want To Play Again?</string>
+    <string name="play_again" translatable="false">Play Again</string>
+    <string name="return_to_home" translatable="false">Return to home</string>
+    <string name="draw" translatable="false">It\'s A Draw!</string>
+    <string name="searching_for_players" translatable="false">Searching For Players...</string>
+    <string name="found_player" translatable="false">Found!</string>
+    <string name="or" translatable="false">OR</string>
+    <string name="cancel" translatable="false">cancel</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Voice Champion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="watch_ad">watch ad</string>
+    <string name="wins">Wins</string>
+    <string name="losses">Losses</string>
+    <string name="play">Play</string>
+    <string name="your_hint_is">Your hint is:</string>
+</resources>
